@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/ClofPTnkhTflmG12ccaCkAICA5w</id>
+  <title>arXiv Query: search_query=all:"wormholes" AND (cat:hep-th OR cat:gr-qc) AND submittedDate:"202401010000 TO 202412312359"&amp;id_list=&amp;start=0&amp;max_results=3</title>
+  <updated>2026-10-03T16:27:49Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22wormholes%22+AND+((cat:hep-th+OR+cat:gr-qc)+AND+submittedDate:%22202401010000+TO+202412312359%22)&amp;start=0&amp;max_results=3&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>3</opensearch:itemsPerPage>
+  <opensearch:totalResults>241</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2501.00369v3</id>
+    <title>Properties of the wormhole-dominant phase in two-dimensional quantum gravity</title>
+    <updated>2025-05-30T08:27:23Z</updated>
+    <link href="https://arxiv.org/abs/2501.00369v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2501.00369v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the $N \times N$ Hermitian one-matrix model modified by the double-trace interaction. It is known that the coupling for the double-trace interaction can control the weight for the microscopic wormholes if interpreting the matrix model as the lattice model of random surface; tuning the coupling to its critical value, the effect of wormholes become substantial to change the critical behavior of the pure $2$D quantum gravity, which is characterized by a certain positive value of the string susceptibility. In the large-$N$ limit, we calculate the continuum limit of the disk amplitude in which the wormhole effects are important. The resulting continuum disk amplitude is the same as that of the pure $2$D quantum gravity. We also introduce the renormalized coupling for the double-trace interaction, and show that the newly introduced renormalized coupling can alter the renormalized bulk cosmological constant effectively.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-lat" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-12-31T09:44:19Z</published>
+    <arxiv:comment>24 pages, 2 figures; v2: a reference added; v3: minor corrections, a reference added, version accepted for publication in PTEP</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>Tsunehide Kuroki</name>
+    </author>
+    <author>
+      <name>Yuki Sato</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2412.20296v1</id>
+    <title>Compact Objects in Einstein-scalar-Gauss-Bonnet Theory and beyond</title>
+    <updated>2024-12-28T23:26:04Z</updated>
+    <link href="https://arxiv.org/abs/2412.20296v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2412.20296v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In the context of General Relativity, black holes are not allowed to possess scalar hair, wormholes are not traversable and particle-like solutions are irregular. Therefore, in order to derive novel and physically interesting solutions that describe compact objects one needs to address generalised gravitational theories. One popular class of such theories is the Einstein-scalar-Gauss-Bonnet (EsGB) theory with a general coupling function between the scalar field of the theory and the quadratic Gauss-Bonnet term. Starting from black holes, we present a variety of spherically-symmetric solutions for several different forms of the coupling function and discuss their main features. We then proceed to wormhole solutions and demonstrate that the EsGB theory naturally supports traversable wormholes without the need for exotic matter. Regular scalarised particle-like solutions also emerge in the context of the same theory which also possess interesting observable features such as photon rings and echoes. Moving beyond this class of theories, we then address the more extended scalar-tensor Horndeski theory, briefly mention the types of black-hole solutions that arise, and demonstrate that an appropriately constructed disformal transformation of a black-hole solution, such as the Lu-Pang solution, results into a traversable wormhole in the context of the beyond-Horndeski theory.</summary>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-12-28T23:26:04Z</published>
+    <arxiv:comment>36 pages, 14 figures, to be published in the Proceedings of the 11th Aegean Summer School, Syros, Greece</arxiv:comment>
+    <arxiv:primary_category term="gr-qc"/>
+    <author>
+      <name>Panagiota Kanti</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2412.19773v2</id>
+    <title>On the uplift of 4D wormholes in Braneworld models and their 5D structure</title>
+    <updated>2025-05-19T09:32:39Z</updated>
+    <link href="https://arxiv.org/abs/2412.19773v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2412.19773v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recent developments for the consistent embedding of general 4D static and spherically-symmetric spacetimes in arbitrary single-brane braneworld models in the form of the General Embedding Algorithm (GEA) [Phys.Rev.D 109 (2024) 4, L041501], initiated the program of studying the bulk structure of braneworld wormholes. In this article, adopting a completely generic approach, we derive the general conditions that the metric functions of any braneworld spacetime must satisfy to describe a wormhole structure in the bulk. Particular emphasis is placed on clarifying the proper uplift of 4D spacetimes, expressed in terms of arbitrary radial coordinates on the brane, and we demonstrate the important role of the circumferential radius metric function $r(u)$ for the embedding. To ensure applicability even when $r(u)$ is non-invertible, we develop an extended formulation of the GEA. Additionally, the flare-out conditions for braneworld wormholes are presented for the first time and are found to differ from the case of flat extra dimensions. To illustrate the method, we first perform the uplift into both thin (Randall-Sundrum II) and thick braneworld models for four well-known 4D wormhole spacetimes: the effective braneworld wormhole solutions of Casadio-Fabbri-Mazzacurati and Bronnikov-Kim, the Simpson-Visser spacetime, and the Ellis-Bronnikov or "anti-Fisher" solution. Subsequently, we study their bulk features by means of curvature invariants, flare-out conditions, energy conditions and embedding diagrams. Our analysis reveals that the assumption of a warped extra dimension has non-trivial implications for the structure of 5D wormholes.</summary>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-12-27T18:12:03Z</published>
+    <arxiv:comment>37 pages, 11 figures. v2: Significantly enriched and extended analysis in preparation for journal submission; method generalized to arbitrary radial coordinates; further examples added, including thick-brane models and non-isometric wormholes</arxiv:comment>
+    <arxiv:primary_category term="gr-qc"/>
+    <author>
+      <name>Thomas D. Pappas</name>
+    </author>
+    <author>
+      <name>Theodoros Nakas</name>
+    </author>
+    <arxiv:doi>10.1007/JHEP12(2025)090</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/JHEP12(2025)090" title="doi"/>
+  </entry>
+</feed>
