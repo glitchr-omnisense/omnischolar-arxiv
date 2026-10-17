@@ -1,6 +1,6 @@
 # omnischolar/arxiv
 
-arXiv for [glitchr/omnischolar](https://github.com/glitchr-studio/omnischolar): preprints - an
+arXiv for [omniscient/omnischolar](https://github.com/glitchr-studio/omnischolar): preprints - an
 author's by name, one by its arXiv id, a search by text, title, author, category and year - with
 their abstracts, categories, PDF, and the DOI and journal reference of the published version
 when the authors added them. No key; three seconds between two calls, as arXiv asks.
