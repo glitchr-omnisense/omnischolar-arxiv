@@ -1,0 +1,91 @@
+parameters:
+	ignoreErrors:
+		-
+			message: '#^Access to an undefined property DOMNameSpaceNode\|DOMNode\:\:\$textContent\.$#'
+			identifier: property.notFound
+			count: 1
+			path: ArxivSource.php
+
+		-
+			message: '#^Parameter \#2 \$contextNode of method DOMXPath\:\:query\(\) expects DOMNode\|null, DOMNameSpaceNode\|DOMNode given\.$#'
+			identifier: argument.type
+			count: 1
+			path: ArxivSource.php
+
+		-
+			message: '#^Parameter \#2 \$entry of method Omnischolar\\Arxiv\\ArxivSource\:\:toWork\(\) expects DOMNode, DOMNameSpaceNode\|DOMNode given\.$#'
+			identifier: argument.type
+			count: 1
+			path: ArxivSource.php
+
+		-
+			message: '#^Parameter \#3 \$context of static method Omnischolar\\Arxiv\\ArxivSource\:\:value\(\) expects DOMNode\|null, DOMNameSpaceNode\|DOMNode given\.$#'
+			identifier: argument.type
+			count: 3
+			path: ArxivSource.php
+
+		-
+			message: '#^Parameter \$domains of class Omnischolar\\Model\\Work constructor expects list\<string\>, list\<string\|null\> given\.$#'
+			identifier: argument.type
+			count: 1
+			path: ArxivSource.php
+
+		-
+			message: '#^Cannot cast mixed to float\.$#'
+			identifier: cast.double
+			count: 1
+			path: ArxivSourceFactory.php
+
+		-
+			message: '#^Cannot cast mixed to string\.$#'
+			identifier: cast.string
+			count: 1
+			path: ArxivSourceFactory.php
+
+		-
+			message: '#^Cannot access property \$note on Omnischolar\\Model\\Work\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/ArxivSourceTest.php
+
+		-
+			message: '#^Cannot access property \$title on Omnischolar\\Model\\Work\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/ArxivSourceTest.php
+
+		-
+			message: '#^Cannot access property \$year on Omnischolar\\Model\\Work\|null\.$#'
+			identifier: property.nonObject
+			count: 1
+			path: Tests/ArxivSourceTest.php
+
+		-
+			message: '#^Cannot call method doi\(\) on Omnischolar\\Model\\Work\|null\.$#'
+			identifier: method.nonObject
+			count: 1
+			path: Tests/ArxivSourceTest.php
+
+		-
+			message: '#^Cannot call method id\(\) on Omnischolar\\Model\\Work\|null\.$#'
+			identifier: method.nonObject
+			count: 1
+			path: Tests/ArxivSourceTest.php
+
+		-
+			message: '#^Parameter \#1 \$haystack of function str_starts_with expects string, array\<mixed\>\|string given\.$#'
+			identifier: argument.type
+			count: 2
+			path: Tests/ArxivSourceTest.php
+
+		-
+			message: '#^Parameter \#2 \$string of static method PHPUnit\\Framework\\Assert\:\:assertStringStartsWith\(\) expects string, string\|null given\.$#'
+			identifier: argument.type
+			count: 1
+			path: Tests/ArxivSourceTest.php
+
+		-
+			message: '#^Property Omnischolar\\Arxiv\\Tests\\ArxivSourceTest\:\:\$calls \(list\<array\<string, string\>\>\) does not accept non\-empty\-list\<array\<int\|string, array\<mixed\>\|string\>\>\.$#'
+			identifier: assign.propertyType
+			count: 1
+			path: Tests/ArxivSourceTest.php
